@@ -1,2 +1,2 @@
 # Incidents
-A repository to report issues and bugs in Orcfax network operations
+A repository to triage issues and bugs in Orcfax network operations
