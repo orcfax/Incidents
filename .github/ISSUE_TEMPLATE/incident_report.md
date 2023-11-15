@@ -1,6 +1,6 @@
 ---
 name: Orcfax Incident Report
-about: A template for recording incidents relating to Orcfax and their resulting assessment, impact, and resolution
+about: A template for recording incidents relating to Orcfax and their resulting assessment, impact, and resolution. Parentheticals connect report components with ISO requirements analysis.
 title: 'INCIDENT 00X | Incident report title'
 labels: ''
 assignees: ''
@@ -40,12 +40,12 @@ The List is illustrated using UTF-8 characters over task-list  syntax due to lim
 ## Date
 <!-- Date in ISO format. A timestamp is not required. -->
 
-1970-01-01
+1970-01-01 (8722322)
 
 ## Summary
 <!-- A summary of the issue. This can be as detailed as required. -->
 
-A summary of the issue.
+A summary of the issue. (8418689)
 
 ## Status
 <!-- Valid status: 'Resolved'; 'Under Review'; delete as required. -->
@@ -55,12 +55,12 @@ Resolved | Under Review
 ## Assessment
 <!-- An assessment of the issue and why it happened. -->
 
-The issue was caused by; and; ...
+The issue was caused by; and; ... (8722086)
 
 ## Additional Notes
 <!-- Other factors that Orcfax consumers should consider, e.g. the impact of the issue; ways in which the consumer can counter the problem if it happens again, etc. -->
 
-For consumers the issue...; the impact of this issue was such...;
+For consumers the issue...; the impact of this issue was such...; (8419004)
 
 ## Technical improvements
 <!-- Improvements that need to be made to the technical  stack.
@@ -77,13 +77,13 @@ This will be rendered correctly in markdown and allows for easy edits to the lis
 
 We are investigating:
 
-1. Enumerated item 1.
-1. Enumerated item 2.
-1. Enumerated item 3.
+1. Enumerated item 1. (8711545)
+1. Enumerated item 2. (8711545)
+1. Enumerated item 3. (8711545)
 
 ## Documentation improvements
 <!-- As per technical improvements but for documentation. -->
 
-1. Enumerated item 1.
-1. Enumerated item 2.
-1. Enumerated item 3.
+1. Enumerated item 1. (8711537)
+1. Enumerated item 2. (8711537)
+1. Enumerated item 3. (8711537)
