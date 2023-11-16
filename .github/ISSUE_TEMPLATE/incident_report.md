@@ -31,11 +31,11 @@ GitHub issues use Markdown syntax, but some markdown rules such as line-wrapping
 
 The List is illustrated using UTF-8 characters over task-list  syntax due to limitations in the task list syntax in Issue  markdown that reflect "tasks completed" vs. the check-box use required here. Add a ✔️ to the relevant trigger and ⬛ to the remainder. -->
 
-* ⬛ suspected malware infections (9911181)
-* ⬛ access violations (9911176)
-* ✔️ anomalous system behaviors (9911175)
-* ⬛ human errors (9911168)
-* ⬛ unauthorized access attempts (9911166)
+* ⬛ suspected malware infections
+* ⬛ access violations
+* ✔️ anomalous system behaviors
+* ⬛ human errors
+* ⬛ unauthorized access attempts
 
 ## Date
 <!-- Date in ISO format. A timestamp is not required. -->
