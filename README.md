@@ -8,14 +8,13 @@ What follows is an introduction to the various components of the issue template
 with the rationale for their implementation complete with ISO citations.
 
 ## Trigger
-This section will have 5 broad categories to choose from:
+This section will have 5 broad categories to choose from (ISO 27002:2022, 67):
 
 * suspected malware infections
 * access violations
 * anomalous system behaviors
 * human errors
 * unauthorized access attempts
-(ISO 27002:2022, 67)
 
 ## Date
 The date will follow the YYYY-MM-DD convention, but a timestamp is not required.
