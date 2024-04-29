@@ -1,5 +1,5 @@
 ---
-name: Orcfax Incident Report (simple)
+name: Orcfax Incident Report Simple
 about: A template (minus comment blocks) for recording incidents relating to Orcfax and their resulting assessment, impact, and resolution
 title: 'INCIDENT 00X | Incident report title'
 labels: ''
